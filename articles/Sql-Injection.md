@@ -1,4 +1,4 @@
-# 💉 Advanced SQL Injection
+#  Advanced SQL Injection
 
 ##  Introduction
 While practicing web application security in labs and CTF challenges, I moved beyond basic SQL Injection and started exploring more advanced scenarios where simple payloads no longer work.
